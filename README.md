@@ -29,3 +29,6 @@
 4. 启动 Java 后端：`mvn spring-boot:run`
 5. 启动 AI 服务（独立项目 `ai-agent-service`）：`uvicorn app:app --port 8001`
 6. 通过 Knife4j 查看接口文档
+
+## 关联项目
+- AI Agent 服务（Python 端）：https://github.com/JIANGjixuan111/dining-agent-service
